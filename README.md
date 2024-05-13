@@ -10,9 +10,10 @@
   Тестовые данные для проверок находятся на отдельных листах в таблице.<br>
   [Чек-лист](https://docs.google.com/spreadsheets/d/1oe2zdBQYyhuyMlTmMDmUBqI8PqUKXDXa9HWLvfWAq58/edit#gid=0)
   
-- Тест-кейсы к модулям Корзина и Форма оплаты в формате PDF, импортированные из QASE.<br>
-  [Тест-кейсы](https://github.com/asyawrr/web/files/15293115/G7-2024-05-13.pdf)
+- Тест-кейсы к модулям Корзина, Форма оплаты, Регистрация/Авторизация и Каталог в формате PDF, импортированные из QASE.<br>
+  [Тест-кейсы](https://github.com/asyawrr/web/files/15293833/G7-Sherstniuk.pdf)
+
 
 - Вложения к тест-кейсам в папке Google Drive<br>
-  [Ссылка на Google Drive с вложениями к тест-кейсам](https://drive.google.com/drive/folders/1oNfziwDgTqd5wlxysboR2futRrUPD8jG?usp=sharing)
+  [Ссылка на Google Drive с вложениями к тест-кейсам](https://drive.google.com/drive/folders/1iClsH4NgzMveseVZcXdYnb2WAJn95Sm0?usp=sharing)
 
