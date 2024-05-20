@@ -17,3 +17,17 @@
 - Вложения к тест-кейсам в папке Google Drive<br>
   [Ссылка на Google Drive с вложениями к тест-кейсам](https://drive.google.com/drive/folders/1iClsH4NgzMveseVZcXdYnb2WAJn95Sm0?usp=sharing)
 
+## Тестирование модулей Корзина и Оплата
+По ссылкам ниже находятся тестовые артефакты по результату тестирования модулей. <br>
+- Таблица google sheets с баг-репортами, импортированными из youtrack <br>
+  [Баг-репорты](https://docs.google.com/spreadsheets/d/1uVHAXftnPKpnNWSooYtbNYxQsbYwaCbXKaFL2GwCgyg/edit#gid=1492042250)
+  
+- Результат тестового прогона в QASE <br>
+  [PDF-файл тестового прогона](https://github.com/asyawrr/web/files/15373792/Cart.Orders.TestRun.pdf)
+
+- Ссылка на баг-репорты в YouTrack <br>
+  [Ссылка на youtrack](https://artsiomrusau.youtrack.cloud/issues?q=Subtask%20of:%20FTT-800%20sort%20by:%20created%20asc%20&u=1)
+
+- Ссылка на скриншоты к баг-репортам на google drive <br>
+  [Attachments](https://drive.google.com/drive/folders/1oNfziwDgTqd5wlxysboR2futRrUPD8jG?usp=drive_link)
+  
